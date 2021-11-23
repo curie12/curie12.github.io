@@ -1,4 +1,6 @@
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+![logo](/IMG_1644.jpeg)
+<img src="IMG_1644.jpeg" width="100" height="100">
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
