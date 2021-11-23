@@ -25,7 +25,7 @@ url                      : "https://curie12.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "image_1644.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Curie12"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "image_1644.jpeg"
   bio              : "I am an **dd** person."
   location         : "Korea"
   email            : curie1211@sookmyung.ac.kr
