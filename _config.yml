@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "curie12"
 description              : "An amazing website."
 url                      : "https://curie12.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "curie12/curie12.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "IMG_1644.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "IMG_1644.png"
